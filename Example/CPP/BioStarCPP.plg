@@ -1,0 +1,113 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BioStarCPP - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x412 /fo"Debug/BioStarCPP.res" /d "_DEBUG" /d "_AFXDLL" "d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\BioStarCPP.rc"" 
+Creating temporary file "C:\DOCUME~1\charlie\LOCALS~1\Temp\RSPCF.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /I "..\..\Include" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/BioStarCPP.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\BioStarCPP.cpp"
+"d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\BioStarCPPDlg.cpp"
+"d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\LogManagement.cpp"
+"d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\NetworkConfig.cpp"
+"d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\RS485Management.cpp"
+"d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\SetupTime.cpp"
+"d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\charlie\LOCALS~1\Temp\RSPCF.tmp" 
+Creating temporary file "C:\DOCUME~1\charlie\LOCALS~1\Temp\RSPD0.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /I "..\..\Include" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/BioStarCPP.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\charlie\LOCALS~1\Temp\RSPD0.tmp" 
+Creating temporary file "C:\DOCUME~1\charlie\LOCALS~1\Temp\RSPD1.tmp" with contents
+[
+BS_SDK.lib ws2_32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/BioStarCPP.pdb" /debug /machine:I386 /out:"Debug/BioStarCPP.exe" /pdbtype:sept /libpath:"..\..\Lib" 
+".\Debug\BioStarCPP.obj"
+".\Debug\BioStarCPPDlg.obj"
+".\Debug\LogManagement.obj"
+".\Debug\NetworkConfig.obj"
+".\Debug\RS485Management.obj"
+".\Debug\SetupTime.obj"
+".\Debug\StdAfx.obj"
+".\Debug\UserManagement.obj"
+".\Debug\BioStarCPP.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\charlie\LOCALS~1\Temp\RSPD1.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+BioStarCPP.cpp
+BioStarCPPDlg.cpp
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\BioStarCPPDlg.cpp(107) : error C2059: syntax error : '&&'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\BioStarCPPDlg.cpp(107) : error C2143: syntax error : missing ';' before '}'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\BioStarCPPDlg.cpp(107) : error C2143: syntax error : missing ';' before '}'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\BioStarCPPDlg.cpp(108) : error C2143: syntax error : missing ';' before '{'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\BioStarCPPDlg.cpp(108) : error C2447: missing function header (old-style formal list?)
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\BioStarCPPDlg.cpp(108) : error C2143: syntax error : missing ';' before '}'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\BioStarCPPDlg.cpp(397) : warning C4018: '<' : signed/unsigned mismatch
+LogManagement.cpp
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\LogManagement.cpp(43) : error C2059: syntax error : '&&'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\LogManagement.cpp(43) : error C2143: syntax error : missing ';' before '}'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\LogManagement.cpp(43) : error C2143: syntax error : missing ';' before '}'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\LogManagement.cpp(45) : error C2143: syntax error : missing ';' before '{'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\LogManagement.cpp(45) : error C2447: missing function header (old-style formal list?)
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\LogManagement.cpp(45) : error C2143: syntax error : missing ';' before '}'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\LogManagement.cpp(172) : error C2065: 'DWORD_PTR' : undeclared identifier
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\LogManagement.cpp(172) : error C2146: syntax error : missing ')' before identifier 'newLogRecord'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\LogManagement.cpp(172) : error C2059: syntax error : ')'
+NetworkConfig.cpp
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\NetworkConfig.cpp(502) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\NetworkConfig.cpp(515) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\NetworkConfig.cpp(516) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\NetworkConfig.cpp(538) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\NetworkConfig.cpp(551) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\NetworkConfig.cpp(552) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\NetworkConfig.cpp(578) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\NetworkConfig.cpp(608) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+RS485Management.cpp
+SetupTime.cpp
+UserManagement.cpp
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp(110) : error C2059: syntax error : '&&'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp(110) : error C2143: syntax error : missing ';' before '}'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp(110) : error C2143: syntax error : missing ';' before '}'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp(111) : error C2143: syntax error : missing ';' before '{'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp(111) : error C2447: missing function header (old-style formal list?)
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp(111) : error C2143: syntax error : missing ';' before '}'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp(1200) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp(1416) : error C2374: 'i' : redefinition; multiple initialization
+        d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp(1408) : see declaration of 'i'
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp(1763) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp(1998) : error C2374: 'i' : redefinition; multiple initialization
+        d:\BioStarV1.9\BS_SDK\Doc\결과물\CD\Example\CPP\UserManagement.cpp(1990) : see declaration of 'i'
+Generating Code...
+Error executing cl.exe.
+Creating temporary file "C:\DOCUME~1\charlie\LOCALS~1\Temp\RSPD2.tmp" with contents
+[
+/nologo /o"Debug/BioStarCPP.bsc" 
+".\Debug\StdAfx.sbr"
+".\Debug\BioStarCPP.sbr"
+".\Debug\BioStarCPPDlg.sbr"
+".\Debug\LogManagement.sbr"
+".\Debug\NetworkConfig.sbr"
+".\Debug\RS485Management.sbr"
+".\Debug\SetupTime.sbr"
+".\Debug\UserManagement.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\charlie\LOCALS~1\Temp\RSPD2.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+BioStarCPP.exe - 23 error(s), 11 warning(s)
+</pre>
+</body>
+</html>
