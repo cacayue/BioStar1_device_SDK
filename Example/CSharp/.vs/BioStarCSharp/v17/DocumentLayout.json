@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAB4476-C2D1-43A7-B30B-CA17A978CCF9}|BioStarCSharp\\BioStarCSharp.csproj|E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\biostarcsharp\\networkconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAB4476-C2D1-43A7-B30B-CA17A978CCF9}|BioStarCSharp\\BioStarCSharp.csproj|solutionrelative:biostarcsharp\\networkconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAB4476-C2D1-43A7-B30B-CA17A978CCF9}|BioStarCSharp\\BioStarCSharp.csproj|E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\biostarcsharp\\biostar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAB4476-C2D1-43A7-B30B-CA17A978CCF9}|BioStarCSharp\\BioStarCSharp.csproj|solutionrelative:biostarcsharp\\biostar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAB4476-C2D1-43A7-B30B-CA17A978CCF9}|BioStarCSharp\\BioStarCSharp.csproj|E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\biostarcsharp\\biostar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFAB4476-C2D1-43A7-B30B-CA17A978CCF9}|BioStarCSharp\\BioStarCSharp.csproj|solutionrelative:biostarcsharp\\biostar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAB4476-C2D1-43A7-B30B-CA17A978CCF9}|BioStarCSharp\\BioStarCSharp.csproj|E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\biostarcsharp\\bssdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAB4476-C2D1-43A7-B30B-CA17A978CCF9}|BioStarCSharp\\BioStarCSharp.csproj|solutionrelative:biostarcsharp\\bssdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAB4476-C2D1-43A7-B30B-CA17A978CCF9}|BioStarCSharp\\BioStarCSharp.csproj|E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\biostarcsharp\\networkconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFAB4476-C2D1-43A7-B30B-CA17A978CCF9}|BioStarCSharp\\BioStarCSharp.csproj|solutionrelative:biostarcsharp\\networkconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkConfig.cs",
+              "DocumentMoniker": "E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\BioStarCSharp\\NetworkConfig.cs",
+              "RelativeDocumentMoniker": "BioStarCSharp\\NetworkConfig.cs",
+              "ToolTip": "E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\BioStarCSharp\\NetworkConfig.cs",
+              "RelativeToolTip": "BioStarCSharp\\NetworkConfig.cs",
+              "ViewState": "AgIAANEBAAAAAAAAAAAiwNwBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:00:04.701Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkConfig.cs [Design]",
+              "DocumentMoniker": "E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\BioStarCSharp\\NetworkConfig.cs",
+              "RelativeDocumentMoniker": "BioStarCSharp\\NetworkConfig.cs",
+              "ToolTip": "E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\BioStarCSharp\\NetworkConfig.cs [Design]",
+              "RelativeToolTip": "BioStarCSharp\\NetworkConfig.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:59:45.537Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BioStar.cs",
+              "DocumentMoniker": "E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\BioStarCSharp\\BioStar.cs",
+              "RelativeDocumentMoniker": "BioStarCSharp\\BioStar.cs",
+              "ToolTip": "E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\BioStarCSharp\\BioStar.cs",
+              "RelativeToolTip": "BioStarCSharp\\BioStar.cs",
+              "ViewState": "AgIAADwCAAAAAAAAAAAqwEcCAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:01:50.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BioStar.cs [Design]",
+              "DocumentMoniker": "E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\BioStarCSharp\\BioStar.cs",
+              "RelativeDocumentMoniker": "BioStarCSharp\\BioStar.cs",
+              "ToolTip": "E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\BioStarCSharp\\BioStar.cs [Design]",
+              "RelativeToolTip": "BioStarCSharp\\BioStar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:01:40.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BSSDK.cs",
+              "DocumentMoniker": "E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\BioStarCSharp\\BSSDK.cs",
+              "RelativeDocumentMoniker": "BioStarCSharp\\BSSDK.cs",
+              "ToolTip": "E:\\work\\S G\\Interface\\BioStar1_device_SDK\\Example\\CSharp\\BioStarCSharp\\BSSDK.cs",
+              "RelativeToolTip": "BioStarCSharp\\BSSDK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEIAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:00:19.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
